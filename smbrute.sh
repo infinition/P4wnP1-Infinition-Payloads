@@ -5,7 +5,7 @@
 # You need to setup P4wnP1 USB Gadget Settings as RNDIS_ETHERNET and HID keyboard
 # Copy this script to "/usr/local/P4wnP1/scripts/"
 # Create a trigger to start the bash script "smbrute.sh" when DHCP lease issued.
-
+#ok
 # Requirements 
 # Nmap
 # Metasploit - msfconsole

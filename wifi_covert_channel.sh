@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # use CLI client to determine raw HID device
+
 hidraw=$(P4wnP1_cli usb get device raw)
 
 # exit if HID raw device isn't up
