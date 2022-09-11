@@ -1,6 +1,7 @@
 #!/bin/bash
 # Brute force
 # Brute force1
+# Brute force2
 # Brute force windows login based via SMB
 # Based on lockpicker from: https://pentestit.de/smb-brute-force-mit-p4wnp1-a-l-o-a/ and Jackalope from: https://github.com/hak5/bashbunny-payloads/tree/master/payloads/library/credentials/Jackalope
 # You need to setup P4wnP1 USB Gadget Settings as RNDIS_ETHERNET and HID keyboard
