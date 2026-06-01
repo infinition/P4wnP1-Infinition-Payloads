@@ -1,0 +1,29 @@
+# P4wnP1 runtime state
+*.db
+*.pot
+*.leases
+*.log
+
+# Loot and exfil directories (generated at runtime, never committed)
+loot/
+/tmp/
+
+# Credentials or captured data that should never land in git
+*.hashes
+*.cracked
+*.dmp
+*.sam
+
+# Wordlists (large, distribute separately)
+wordlists/
+
+# Compressed payloads you may rebuild locally
+# Remove the line below if you want to track the zip
+ShowDesktop(Autorun).zip
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
