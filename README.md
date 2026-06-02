@@ -1,4 +1,4 @@
-# P4wnP1 Infinition Payloads
+﻿# P4wnP1 Infinition Payloads
 
 A collection of HID scripts and shell payloads for the P4wnP1 A.L.O.A. platform
 (Raspberry Pi Zero W). All scripts target Windows 10 French or US keyboard
@@ -56,7 +56,7 @@ Work-in-progress revision of the FR reverse shell. Not production ready.
 
 **`@_DésactiverV2_WindowsDefender_Infinition.js`**
 Navigates Windows Security through keyboard input alone to disable real-time
-protection. No PowerShell, no elevated prompt — works through the GUI.
+protection. No PowerShell, no elevated prompt; works through the GUI.
 
 **`@_OpenSMB_Infinition.js`**
 Configures the target to connect to the P4wnP1 SMB share and opens it, making
