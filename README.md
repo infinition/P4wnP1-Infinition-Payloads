@@ -1,4 +1,6 @@
-﻿# P4wnP1 Infinition Payloads
+<img width="256" height="254" alt="image-removebg-preview (1)" src="https://github.com/user-attachments/assets/675b04c9-dcfe-48f0-be8a-fc2b827bb1e1" />
+
+ # P4wnP1 Infinition Payloads
 
 A collection of HID scripts and shell payloads for the P4wnP1 A.L.O.A. platform
 (Raspberry Pi Zero W). All scripts target Windows 10 French or US keyboard
