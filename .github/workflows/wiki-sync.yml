@@ -1,0 +1,23 @@
+name: Wiki Sync
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'wiki/**'
+      - '.github/acidwiki.json'     
+      - '.github/workflows/wiki-sync.yml'
+  
+  workflow_dispatch:
+
+  schedule:
+    - cron: '0 4 * * *'
+
+permissions:
+  contents: write  
+  pages: write
+  id-token: write
+
+jobs:
+  deploy-wiki:
+    uses: infinition/AcidWiki/.github/workflows/reusable-wiki-sync.yml@main
