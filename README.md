@@ -1,4 +1,6 @@
-<img width="256" height="254" alt="image-removebg-preview (1)" src="https://github.com/user-attachments/assets/675b04c9-dcfe-48f0-be8a-fc2b827bb1e1" />
+<p align="center">
+  <img src=".github/P4wnP1-Infinition-Payloads.png" alt="P4wnP1-Infinition-Payloads icon" width="256" height="254" />
+</p>
 
  # P4wnP1 Infinition Payloads
 
